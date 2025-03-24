@@ -34,8 +34,8 @@ Save the trained model, visualize predictions, and integrate it into an applicat
 
 ## PROGRAM
 
-### Name:
-### Register Number:
+### Name: ARSHITHA MS
+### Register Number: 212223240015
 ```python
 class CNNClassifier(nn.Module):
     def __init__(self):
