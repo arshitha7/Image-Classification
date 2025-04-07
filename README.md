@@ -10,7 +10,8 @@ To classify the given images into it's category
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![image](https://github.com/user-attachments/assets/acb92196-8a29-40c9-9505-82bf31af77b3)
+
 
 ## DESIGN STEPS
 
